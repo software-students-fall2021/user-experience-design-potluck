@@ -6,7 +6,7 @@ View our prototype here. [need to insert link]
 
 ## App Map & Wireframes
 ### App Map
-
+![app map](./ux-design/AppMap.png)
 
 
 Replace the contents of this file with the completed assignments, as described in:
