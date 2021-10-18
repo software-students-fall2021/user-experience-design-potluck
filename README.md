@@ -1,6 +1,13 @@
-## User Experience Design
+# User Experience Design
+Team Huntington Explicit (PotLuck)
 
-This repository contains instructions and files for two assignments that together comprise the user experience design phase of a web app.
+## Prototype
+View our prototype here. [need to insert link]
+
+## App Map & Wireframes
+### App Map
+
+
 
 Replace the contents of this file with the completed assignments, as described in:
 
