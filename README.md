@@ -34,16 +34,22 @@ The main page of the map view for a user. Displays standard header and footer. C
 ![map](./ux-design/Map.png)
 
 #### Map - Restaurant Selected to View
+
+Page that results when a user selects a specific restaurant to view from the map. Displays standard header and footer. Shows the name of the location, its rating, photos, and a button to view posts about the location (this takes users to a feed view with a specific filter for that restaurant).
+
 ![map-restaurant-selected](./ux-design/MapViewRestaurantSelected.png)
 
 #### Filter Selected
+
+Page that results when a user selects the filter button (on the feed or map view) 
+
 ![filter-selected](./ux-design/FilterButtonSelected.png)
 
 #### Make Post
 ![make-post](./ux-design/MakePost.png)
 
 #### Choose Tags
-![choose-tags](./ux-design/AppMap.png)
+![choose-tags](./ux-design/ChooseTag.png)
 
 #### Account Overview
 ![account-overview](./ux-design/AccountOverview.png)
