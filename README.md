@@ -1,8 +1,9 @@
 # User Experience Design
-Team Huntington Explicit (PotLuck)
+Team Huntington Explicit (Potluck)
 
 ## Prototype
-View our prototype here. [need to insert link]
+View our prototype [here](https://www.figma.com/proto/XMcwr5StWMdYmwJL3cW51j/First-attempt?node-id=47701%3A946&scaling=min-zoom&page-id=33%3A444&starting-point-node-id=47701%3A946&show-proto-sidebar=1) and our original design file [here](https://www.figma.com/file/XMcwr5StWMdYmwJL3cW51j/First-attempt?node-id=33%3A444).
+Different flows for the prototype can be selected and viewed on the left-hand side.
 
 ## App Map & Wireframes
 ### App Map
