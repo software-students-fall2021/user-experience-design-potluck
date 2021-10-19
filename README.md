@@ -41,21 +41,24 @@ Page that results when a user selects a specific restaurant to view from the map
 
 #### Filter Selected
 
-Page that results when a user selects the filter button (on the feed or map view) 
+Page that results when a user selects the filter button (on the feed or map view). A box (as shown in picture) pops up, where users can select multiple tags that they want to apply to the current page they're viewing.
 
 ![filter-selected](./ux-design/FilterButtonSelected.png)
 
 #### Make Post
+
+Screen for the user to write up a post. The user has options to add photos, select tags, and choose a location. The user can choose to post or delete the draft.
+
 ![make-post](./ux-design/MakePost.png)
 
 #### Choose Tags
+
+Screen for the user to choose tag(s). The user can scroll down to choose from an assortment of different tags
+
 ![choose-tags](./ux-design/ChooseTag.png)
 
 #### Account Overview
+
+The account page for the user to see and change account information. The header shows the app’s logo. The top half of the screen displays the user’s name and picture. The bottom half of the screen displays options to edit the user’s account, see the user’s posts, access settings, and log out. The footer contains links to the Map and the Feed
+
 ![account-overview](./ux-design/AccountOverview.png)
-
-
-Replace the contents of this file with the completed assignments, as described in:
-
-- [app map and wireframe instructions](./instructions-app-map-wireframe.md).
-- [prototype instructions](./instructions-prototype.md)
